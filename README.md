@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio</h1>
 <h3 align="center">A Computer Science student</h3>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Computer Vision, C++**
+- 🌱 I’m currently learning **Python, Machine Learning, Computer Vision, C++ and Elixir**
 
 - 👨‍💻 All of my projects are available at [https://caioopra.github.io](https://caioopra.github.io)
 
